@@ -1,150 +1,81 @@
+* {
+  background-color: #f59fc4;
+  margin: 0;
+}
+
+
 .cute-robot {
-  height: 600px;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.cute-robot * {
-  box-sizing: border-box;
+
+.cute-ear-left {
+  width: 100px;
+  height: 275px;
+  border-radius: 40px;
+  background-color: #f03535;
+  position: absolute;
+  left: 600px;
+  top: 22%;
+  border: 5px solid #000;
+
 }
-.cute-robot .circle-bg {
-  background: #cedbdd;
-  width: 250px;
-  height: 250px;
-  border-radius: 100%;
-  border: 8px solid #195272;
+
+.cute-ear-right{
+  width: 100px;
+  height: 275px;
+  border-radius: 40px;
+  background-color: #431cf1;
+  position: absolute;
+  left: 63%;
+  top: 22%;
+  border: 5px solid #000;
+
+}
+.cute-head {
+  margin-top: 150px;
+  width: 600px;
+  height: 400px;
+  border-radius: 50px;
+  background-color: #9e9abb;
   position: relative;
+  border: 5px solid #000;
 }
-.cute-robot .circle-bg:after {
-  content: "";
-  position: absolute;
-  z-index: 2;
-  height: 100%;
-  width: 100%;
-  top: -3px;
-  left: 0;
-  border-radius: 100%;
-  border-bottom: 10px solid #195272;
+
+.cute-head-inner {
+  margin: 50px;
+  height: 300px;
+  border-radius: 50px;
+  background-color: #251a3a;
+  position: relative;
+  border: 5px solid #000;
 }
-.cute-robot .circle-bg:hover .robot-face {
-  top: 40px !important;
-}
-.cute-robot .circle-bg:hover .eyes {
-  top: 30px !important;
-}
-.cute-robot .circle-bg:hover .mouth {
-  background: #195272;
-  border: none;
-  clip-path: polygon(0% 30%, 100% 30%, 100% 100%, 0% 100%);
-}
-.cute-robot .circle-bg:hover .mouth:after {
-  content: "";
-  position: absolute;
-  height: 80%;
-  width: 80%;
-  bottom: -30%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #f9bbbb;
-  border-radius: 100%;
-}
-.cute-robot .circle-bg .robot-head {
-  height: 200px;
-  width: 200px;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: -20px;
-  border: 8px solid #195272;
-  border-radius: 85px/ 60px;
-  background: #ffffff;
-  z-index: 4;
-}
-.cute-robot .circle-bg .robot-head:after {
-  content: "";
-  position: absolute;
-  top: -30px;
-  height: 30px;
-  width: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #195272;
-}
-.cute-robot .circle-bg .robot-head:before {
-  content: "";
-  position: absolute;
-  top: -60px;
-  left: 50%;
-  transform: translateX(-50%);
-  height: 20px;
-  width: 20px;
-  background: #cedbdd;
-  border: 8px solid #195272;
-  border-radius: 100%;
-}
-.cute-robot .circle-bg .robot-head .robot-face {
-  height: 120px;
-  width: 160px;
-  background: #cedbdd;
-  position: absolute;
-  top: 45px;
-  left: 50%;
-  transform: translateX(-50%);
-  border: 8px solid #195272;
-  transition: all 200ms;
-  border-radius: 45px;
-}
-.cute-robot .circle-bg .robot-head .robot-face .eyes {
-  height: 20px;
-  width: 20px;
-  background: #195272;
-  border-radius: 100%;
-  position: absolute;
-  transition: all 200ms;
-  top: 40px;
-}
-.cute-robot .circle-bg .robot-head .robot-face .eyes.left {
-  left: 30px;
-}
-.cute-robot .circle-bg .robot-head .robot-face .eyes.right {
-  right: 30px;
-}
-.cute-robot .circle-bg .robot-head .robot-face .mouth {
-  height: 45px;
-  width: 45px;
-  border-radius: 100%;
-  border: 8px solid transparent;
-  border-bottom-color: #195272;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+
+
+.cute-eye-left {
   top: 50px;
-  overflow: hidden;
-}
-.cute-robot .circle-bg .robot-ear {
-  position: absolute;
-  height: 100px;
+  left: 50px;
+  background-color: #251a3a;
+  position: relative;
+  border: 5px solid #000;
+
   width: 100px;
-  border-radius: 100%;
-  background: #ffffff;
-  border: 8px solid #195272;
-  z-index: 3;
-  top: 30px;
+  height: 150px;
+  background: #91d6e6;
+  border-radius: 50px / 75px;
 }
-.cute-robot .circle-bg .robot-ear.left {
-  left: -20px;
-}
-.cute-robot .circle-bg .robot-ear.right {
-  right: -20px;
-}
-.cute-robot .circle-bg .robot-body {
-  height: 50px;
+
+.cute-eye-right {
+  top: -110px;
+  left: 325px;
+  background-color: #251a3a;
+  position: relative;
+  border: 5px solid #000;
+
   width: 100px;
-  border: 8px solid #195272;
-  background: #ffffff;
-  position: absolute;
-  bottom: -5px;
-  left: 50%;
-  transform: translateX(-50%);
-  border-radius: 25px 25px 30px 30px;
+  height: 150px;
+  background: #91d6e6;
+  border-radius: 50px / 75px;
 }
