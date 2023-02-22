@@ -29,10 +29,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PP-Namias&repo=CSS3-Robot-Web-Art&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/PP-Namias/CSS3-Robot-Web-Art)
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
-- [x] A cute robot design created entirely using CSS, with simple yet eye-catching animations.
-- [x] Step-by-step tutorials and resources to help visitors learn and appreciate the art of CSS design.
-- [x] A minimalist layout and user-friendly interface that make it easy to navigate and explore.
-- [x] An excellent resource for both experienced web designers and those new to CSS.
+- [ ] A cute robot design created entirely using CSS, with simple yet eye-catching animations.
+- [ ] Step-by-step tutorials and resources to help visitors learn and appreciate the art of CSS design.
+- [ ] A minimalist layout and user-friendly interface that make it easy to navigate and explore.
+- [ ] An excellent resource for both experienced web designers and those new to CSS.
 
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Screenshots
 <br />
