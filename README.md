@@ -27,6 +27,7 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PP-Namias&repo=CSS3-Robot-Web-Art&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/PP-Namias/CSS3-Robot-Web-Art)
+[![Youtube Devlog Part 1](https://i.ytimg.com/vi/c_MsmYSn1Lw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IB4oKjAP&rs=AOn4CLClq3j5ucfEIssdAdJ9CrDBl7Cxzw)](https://www.youtube.com/watch?v=c_MsmYSn1Lw)
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
 - [ ] A cute robot design created entirely using CSS, with simple yet eye-catching animations.
