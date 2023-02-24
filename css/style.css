@@ -189,7 +189,7 @@ hr {
 ================================================== */
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url("../images/robot.png");
+    background: rgba(0, 0, 0, 0.7) url("../images/bg.jpg");
     background-size: cover;
     background-blend-mode: darken;
     background-attachment: fixed;
@@ -705,7 +705,7 @@ hr {
 
 .spider-robot {
     height: 100%;
-    margin: -240px 0 0 0px;
+    margin: 0px 0 0 0px;
     display: flex;
     justify-content: center;
     align-items: center;
