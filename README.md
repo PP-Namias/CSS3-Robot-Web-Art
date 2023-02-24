@@ -27,12 +27,11 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PP-Namias&repo=CSS3-Robot-Web-Art&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/PP-Namias/CSS3-Robot-Web-Art)
-[![Youtube Devlog Part 1](https://i.ytimg.com/vi/c_MsmYSn1Lw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IB4oKjAP&rs=AOn4CLClq3j5ucfEIssdAdJ9CrDBl7Cxzw)](https://www.youtube.com/watch?v=c_MsmYSn1Lw)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" width="30px" height="20px"> 》Youtube Dev log 
-[![Youtube Devlog Part 1](./images/Dev%20log%201.png)](https://www.youtube.com/watch?v=c_MsmYSn1Lw)
-[![Youtube Devlog Part 2](./images/Dev%20log%202.png)](https://www.youtube.com/watch?v=_HSkWnNPA5Q)
-[![Youtube Devlog Part 3](./images/Dev%20log%203.png)](https://www.youtube.com/watch?v=Cef4BZvS9ns)
+<a aria-label="Youtube Devlog Part 1" href="https://www.youtube.com/watch?v=c_MsmYSn1Lw" target="_blank"><img alt="Youtube Devlog Part 1" src="./images/Dev%20log%201.png"></a>
+<a aria-label="Youtube Devlog Part 2" href="https://www.youtube.com/watch?v=_HSkWnNPA5Q" target="_blank"><img alt="Youtube Devlog Part 2" src="./images/Dev%20log%202.png"></a>
+<a aria-label="Youtube Devlog Part 3" href="https://www.youtube.com/watch?v=Cef4BZvS9n3" target="_blank"><img alt="Youtube Devlog Part 3" src="./images/Dev%20log%203.png"></a>
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
 - [ ] A cute robot design created entirely using CSS, with simple yet eye-catching animations.
