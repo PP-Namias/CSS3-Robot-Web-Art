@@ -189,7 +189,7 @@ hr {
 ================================================== */
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url("../images/bg.jpg");
+    background: rgba(0, 0, 0, 0.7) url("../images/robot.png");
     background-size: cover;
     background-blend-mode: darken;
     background-attachment: fixed;
@@ -703,13 +703,135 @@ hr {
 
 
 
-.cute-robot {
+.spider-robot {
     height: 100%;
     margin: -240px 0 0 0px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+
+.circle {
+
+}
+
+.circle-head {
+    margin: -100px 0 0 -375px;
+    height: 475px;
+    width: 475px;
+    position: absolute;
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    border: 15px solid #000;
+    box-shadow: inset -40px -80px 0px 0px #7f7f7f;
+    -moz-box-shadow: inset -40px -80px 0px 0px #7f7f7f;
+}
+
+.border {
+    margin: 0px 0 0 125px;
+    width: 50%;
+    position: absolute;
+    height: 450px;
+    display: block;
+    border-left: 19px solid #545454;
+    border-radius: 50%;
+}
+
+.face {
+    margin: 125px 0 0 50px;
+    height: 175px;
+    width: 175px;
+    position: absolute;
+    background-color: #7effff;
+    border-radius: 50%;
+    position: absolute;
+    border: 15px solid #000;
+}
+
+.circle-1 {
+    margin: 80px 0 0 200px;
+    height: 20px;
+    width: 20px;
+    background-color: #898989;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle-2 {
+    margin: 25px 0 0 225px;
+    height: 20px;
+    width: 20px;
+    background-color: #898989;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle-3 {
+    margin: 325px 0 0 175px;
+    height: 20px;
+    width: 20px;
+    background-color: #898989;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle-4 {
+    margin: 390px 0 0 200px;
+    height: 20px;
+    width: 20px;
+    background-color: #444444;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.exhaust-1 {
+    margin: 175px 0 0 375px;
+    background-color: #444444;
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    border-radius: 100px;
+    transform: rotate(330deg);
+}
+
+.exhaust-2 {
+    margin: 225px 0 0 375px;
+    background-color: #444444;
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    border-radius: 100px;
+    transform: rotate(330deg);
+}
+
+.exhaust-3 {
+    margin: 275px 0 0 375px;
+    background-color: #444444;
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    border-radius: 100px;
+    transform: rotate(330deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .antena-1 {
     border-left: 6px solid black;
@@ -733,7 +855,7 @@ hr {
     height: 100px;
     position: absolute;
     margin: -240px 0 0 0px;
-    transform: skewX(50deg);
+    transform: rotate(45deg);
 }
 
 .antena-ball-1 {
