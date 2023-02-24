@@ -189,7 +189,7 @@ hr {
 ================================================== */
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url("../images/robot.png");
+    background: rgba(0, 0, 0, 0.7) url("../images/bg.jpg");
     background-size: cover;
     background-blend-mode: darken;
     background-attachment: fixed;
@@ -711,13 +711,8 @@ hr {
     align-items: center;
 }
 
-
-.circle {
-
-}
-
 .circle-head {
-    margin: -100px 0 0 -375px;
+    margin: 0px 0 0 0px;
     height: 475px;
     width: 475px;
     position: absolute;
