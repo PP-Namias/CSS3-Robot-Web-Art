@@ -7,7 +7,7 @@
   <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
   <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
   <br>
-  <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="CSS3 Robot Web Art All Contributors" /></a>
+  <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art" target="blank"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="CSS3 Robot Web Art All Contributors" /></a>
   <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/github/license/PP-Namias/CSS3-Robot-Web-Art?style=flat-square" alt="CSS3 Robot Web Art license" /></a>
   <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/fork" target="blank"><img src="https://img.shields.io/github/forks/PP-Namias/CSS3-Robot-Web-Art?style=flat-square" alt="CSS3 Robot Web Art forks"/></a>
   <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/stargazers" target="blank"><img src="https://img.shields.io/github/stars/PP-Namias/CSS3-Robot-Web-Art?style=flat-square" alt="CSS3 Robot Web Art stars"/></a>
