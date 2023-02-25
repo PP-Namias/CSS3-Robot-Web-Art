@@ -47,7 +47,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art">
-    <img src="./images/Screenshot.png">
+    <img src="./images/Screenshot-1.png">
+    <img src="./images/Screenshot-2.png">
   </a>
 </p>
 
