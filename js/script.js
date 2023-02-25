@@ -33,10 +33,10 @@ menu.addEventListener('click', () => {
 
 var typed = new Typed('.typer', {
     strings: [
-        "Unity Game Developer",
-        "Full stack Developer",
-        "UI/UX Designer",
-        "Graphic Designer"
+        "Web System and Technologies",
+        "Activity #3 and #4",
+        "CSS3 Robot Web Art",
+        "Namias, Jhon Keneth Ryan B."
     ],
     typeSpeed: 30,
     backSpeed: 15,
