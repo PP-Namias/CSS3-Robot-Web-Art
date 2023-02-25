@@ -25,19 +25,20 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description 
+## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PP-Namias&repo=CSS3-Robot-Web-Art&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/PP-Namias/CSS3-Robot-Web-Art)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" width="30px" height="20px"> 》Youtube Dev log 
 <a aria-label="Youtube Devlog Part 1" href="https://www.youtube.com/watch?v=c_MsmYSn1Lw" target="_blank"><img alt="Youtube Devlog Part 1" src="./images/Dev%20log%201.png"></a>
 <a aria-label="Youtube Devlog Part 2" href="https://www.youtube.com/watch?v=_HSkWnNPA5Q" target="_blank"><img alt="Youtube Devlog Part 2" src="./images/Dev%20log%202.png"></a>
 <a aria-label="Youtube Devlog Part 3" href="https://www.youtube.com/watch?v=Cef4BZvS9n3" target="_blank"><img alt="Youtube Devlog Part 3" src="./images/Dev%20log%203.png"></a>
+<a aria-label="Youtube Devlog Part 4" href="https://www.youtube.com/watch?v=IIDjP0kCLEU" target="_blank"><img alt="Youtube Devlog Part 4" src="./images/Dev%20log%204.png"></a>
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
-- [ ] A cute robot design created entirely using CSS, with simple yet eye-catching animations.
-- [ ] Step-by-step tutorials and resources to help visitors learn and appreciate the art of CSS design.
-- [ ] A minimalist layout and user-friendly interface that make it easy to navigate and explore.
-- [ ] An excellent resource for both experienced web designers and those new to CSS.
+- [x] A cute robot design created entirely using CSS, with simple yet eye-catching animations.
+- [x] Step-by-step tutorials and resources to help visitors learn and appreciate the art of CSS design.
+- [x] A minimalist layout and user-friendly interface that make it easy to navigate and explore.
+- [x] An excellent resource for both experienced web designers and those new to CSS.
 
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Screenshots
 <br />
