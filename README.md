@@ -35,6 +35,7 @@
 <a aria-label="Youtube Devlog Part 3" href="https://www.youtube.com/watch?v=Cef4BZvS9n3" target="_blank"><img alt="Youtube Devlog Part 3" src="./images/Dev%20log%203.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 4" href="https://www.youtube.com/watch?v=IIDjP0kCLEU" target="_blank"><img alt="Youtube Devlog Part 4" src="./images/Dev%20log%204.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 5" href="https://www.youtube.com/watch?v=aKF1nVjzI5Q" target="_blank"><img alt="Youtube Devlog Part 5" src="./images/Dev%20log%205.png" width="650px"></a>
+<a aria-label="Youtube Devlog Part 6" href="https://www.youtube.com/watch?v=M5PCGYA4Uvk" target="_blank"><img alt="Youtube Devlog Part 6" src="./images/Dev%20log%206.png" width="650px"></a>
 </p>
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
