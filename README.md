@@ -32,7 +32,7 @@
 <p align="center"> 
 <a aria-label="Youtube Devlog Part 1" href="https://www.youtube.com/watch?v=c_MsmYSn1Lw" target="_blank"><img alt="Youtube Devlog Part 1" src="./images/Dev%20log%201.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 2" href="https://www.youtube.com/watch?v=_HSkWnNPA5Q" target="_blank"><img alt="Youtube Devlog Part 2" src="./images/Dev%20log%202.png" width="650px"></a>
-<a aria-label="Youtube Devlog Part 3" href="https://www.youtube.com/watch?v=Cef4BZvS9n3" target="_blank"><img alt="Youtube Devlog Part 3" src="./images/Dev%20log%203.png" width="650px"></a>
+<a aria-label="Youtube Devlog Part 3" href="https://www.youtube.com/watch?v=Cef4BZvS9ns" target="_blank"><img alt="Youtube Devlog Part 3" src="./images/Dev%20log%203.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 4" href="https://www.youtube.com/watch?v=IIDjP0kCLEU" target="_blank"><img alt="Youtube Devlog Part 4" src="./images/Dev%20log%204.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 5" href="https://www.youtube.com/watch?v=aKF1nVjzI5Q" target="_blank"><img alt="Youtube Devlog Part 5" src="./images/Dev%20log%205.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 6" href="https://www.youtube.com/watch?v=M5PCGYA4Uvk" target="_blank"><img alt="Youtube Devlog Part 6" src="./images/Dev%20log%206.png" width="650px"></a>
