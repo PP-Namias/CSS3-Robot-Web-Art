@@ -598,7 +598,49 @@ lower-box {
 
 .details a {
     font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
+}
+
+.project {
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.project .btn {
+    text-align: center;
+}
+
+.project h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
+}
+
+.project p {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
+}
+
+.project input {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.project span {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.project a {
+    font-family: 'Roboto', sans-serif;
     color: #f3f4f8;
     margin-top: 10px;
 }
@@ -609,6 +651,18 @@ lower-box {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     margin-bottom: 20px;
+}
+
+.gradeBtn h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
+}
+
+.gradeBtn p {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f4f8;
+    margin-top: 10px;
 }
 
 .grade {
@@ -902,7 +956,7 @@ lower-box {
     height: 300px;
     width: 300px;
     position: absolute;
-    background-color: #2c2c2c;
+    background-color: rgba(0, 0, 0, 0.4);
     border-radius: 50%;
     position: absolute;
 }
@@ -944,7 +998,7 @@ lower-box {
     height: 500px;
     width: 500px;
     position: absolute;
-    background-color: #7f7f7f;
+    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 50%;
     position: absolute;
 }
@@ -988,7 +1042,7 @@ lower-box {
     height: 800px;
     width: 800px;
     position: absolute;
-    background-color: #7f7f7f;
+    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 50%;
     position: absolute;
 }
@@ -1032,7 +1086,7 @@ lower-box {
     height: 800px;
     width: 800px;
     position: absolute;
-    background-color: #2c2c2c;
+    background-color: rgba(0, 0, 0, 0.4);
     border-radius: 50%;
     position: absolute;
 }
