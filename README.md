@@ -14,7 +14,7 @@
   <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/issues" target="blank"><img src="https://img.shields.io/github/issues/PP-Namias/CSS3-Robot-Web-Art?style=flat-square" alt="CSS3 Robot Web Art issues"/></a>
   <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/pulls" target="blank"><img src="https://img.shields.io/github/issues-pr/PP-Namias/CSS3-Robot-Web-Art?style=flat-square" alt="CSS3 Robot Web Art pull-requests"/></a>
     <p align="center">
-    <b>CSS Robot Web Art</b> is a website with a cute robot design made entirely with CSS. It offers tutorials and resources to help visitors learn CSS design. The website combines art and technology for an enjoyable user experience.
+    <b>CSS3 Robot Web Art</b> is a website with a cute robot design made entirely with CSS. It offers tutorials and resources to help visitors learn CSS design. The website combines art and technology for an enjoyable user experience.
     <br />
     <br />
     <a href="https://github.com/PP-Namias/CSS3-Robot-Web-Art/issues">Report Bug</a>
