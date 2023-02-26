@@ -838,10 +838,31 @@ lower-box {
     height: 175px;
     width: 175px;
     position: absolute;
-    background-color: #7effff;
+    background-color: #2ebef0;
     border-radius: 50%;
     position: absolute;
     border: 15px solid #000;
+}
+
+.blur {
+    margin: 50px 0 0 25px;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    filter: blur(15px);
+}
+
+.shine {
+    margin: 25px 0 0 50px;
+    height: 65px;
+    width: 65px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
 }
 
 .circle-1 {
