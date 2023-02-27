@@ -30,6 +30,7 @@
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" width="30px" height="20px"> 》Youtube Dev log Playlist
 <p align="center"> 
+<a aria-label="CSS3 Web Art Act 3 & 4 Timelapse" href="https://www.youtube.com/watch?v=VnZbq8MaM0g" target="_blank"><img alt="CSS3 Web Art Act 3 & 4 Timelapse" src="./images/CSS3 Web Art Act 3 & 4 Timelapse.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 1" href="https://www.youtube.com/watch?v=c_MsmYSn1Lw" target="_blank"><img alt="Youtube Devlog Part 1" src="./images/Dev%20log%201.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 2" href="https://www.youtube.com/watch?v=_HSkWnNPA5Q" target="_blank"><img alt="Youtube Devlog Part 2" src="./images/Dev%20log%202.png" width="650px"></a>
 <a aria-label="Youtube Devlog Part 3" href="https://www.youtube.com/watch?v=Cef4BZvS9ns" target="_blank"><img alt="Youtube Devlog Part 3" src="./images/Dev%20log%203.png" width="650px"></a>
